@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiizu.xyz" resolutions="1x" timestamp="1521849156376">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="wall-of-shame.css" crc="198735336" ref="wall-of-shame"/>
+    <file name="store.css" crc="4229343043" ref="store"/>
+    <file name="index.css" crc="91781086" ref="index"/>
+    <file name="bots.css" crc="3981449148" ref="bots"/>
+  </folder>
+  <folder name="assets">
+    <file name="xyz.mp4" crc="3808452237" seo="true" mt="1521763594000"/>
+    <file name="care.mp4" crc="4084251178" seo="true" mt="1521847612000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:store:wall-of-shame:bots"/>
+    <file name="museutils.js" crc="3803043152" ref="index:store:wall-of-shame:bots"/>
+    <file name="whatinput.js" crc="86476730" ref="index:store:wall-of-shame:bots"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:store:wall-of-shame:bots"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:store:wall-of-shame:bots"/>
+    <file name="require.js" crc="4157109226" ref="index:store:wall-of-shame:bots"/>
+  </folder>
+  <folder name="images">
+    <file name="u275-4.png" crc="3943805175" ref="index"/>
+    <file name="u202-4.png" crc="110700918" ref="index"/>
+    <file name="u206-4.png" crc="4012614751" ref="index"/>
+    <file name="u219-4.png" crc="336101747" ref="index"/>
+    <file name="u222-4.png" crc="3970300290" ref="index"/>
+    <file name="u282-4.png" crc="70110359" ref="index"/>
+    <file name="u279-4.png" crc="3943042455" ref="index"/>
+    <file name="u588-4.png" crc="70110359" ref="store"/>
+    <file name="u606-4.png" crc="3999340104" ref="store"/>
+    <file name="u594-4.png" crc="3943042455" ref="store"/>
+    <file name="u591-4.png" crc="70110359" ref="wall-of-shame"/>
+    <file name="u603-4.png" crc="3999340104" ref="wall-of-shame"/>
+    <file name="u582-4.png" crc="3943805175" ref="wall-of-shame"/>
+    <file name="u663-4.png" crc="348932943" ref="wall-of-shame"/>
+    <file name="u774-4.png" crc="232897869" ref="wall-of-shame"/>
+    <file name="u768-4.png" crc="3810221060" ref="wall-of-shame"/>
+    <file name="u585-4.png" crc="3943805175" ref="bots"/>
+    <file name="u600-4.png" crc="3999340104" ref="bots"/>
+    <file name="u597-4.png" crc="3943042455" ref="bots"/>
+  </folder>
+  <file name="index.html" crc="3897735777" seo="true" mt="1521848132229" redirect="true"/>
+  <file name="store.html" crc="3868954817" seo="true" mt="1521847555324" redirect="true"/>
+  <file name="wall-of-shame.html" crc="504471125" seo="true" mt="1521849061140" redirect="true"/>
+  <file name="bots.html" crc="124119253" seo="true" mt="1521848187836" redirect="true"/>
+</manifest>
