@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiizu.xyz" resolutions="1x" timestamp="1521849156376">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiizu.xyz" resolutions="1x" timestamp="1521914111721">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="wall-of-shame.css" crc="198735336" ref="wall-of-shame"/>
+    <file name="wall-of-shame.css" crc="283962169" ref="wall-of-shame"/>
     <file name="store.css" crc="4229343043" ref="store"/>
     <file name="index.css" crc="91781086" ref="index"/>
     <file name="bots.css" crc="3981449148" ref="bots"/>
@@ -33,14 +33,14 @@
     <file name="u603-4.png" crc="3999340104" ref="wall-of-shame"/>
     <file name="u582-4.png" crc="3943805175" ref="wall-of-shame"/>
     <file name="u663-4.png" crc="348932943" ref="wall-of-shame"/>
-    <file name="u774-4.png" crc="232897869" ref="wall-of-shame"/>
-    <file name="u768-4.png" crc="3810221060" ref="wall-of-shame"/>
+    <file name="u774-4.png" crc="4066434257" ref="wall-of-shame"/>
+    <file name="u768-4.png" crc="4168995127" ref="wall-of-shame"/>
     <file name="u585-4.png" crc="3943805175" ref="bots"/>
     <file name="u600-4.png" crc="3999340104" ref="bots"/>
     <file name="u597-4.png" crc="3943042455" ref="bots"/>
   </folder>
   <file name="index.html" crc="3897735777" seo="true" mt="1521848132229" redirect="true"/>
   <file name="store.html" crc="3868954817" seo="true" mt="1521847555324" redirect="true"/>
-  <file name="wall-of-shame.html" crc="504471125" seo="true" mt="1521849061140" redirect="true"/>
+  <file name="wall-of-shame.html" crc="3766495226" seo="true" mt="1521914060530" redirect="true"/>
   <file name="bots.html" crc="124119253" seo="true" mt="1521848187836" redirect="true"/>
 </manifest>
